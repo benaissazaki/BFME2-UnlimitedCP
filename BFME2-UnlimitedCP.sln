@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFME2-UnlimitedCP DLL Injector", "BFME2-UnlimitedCP DLL Injector\BFME2-UnlimitedCP DLL Injector.vcxproj", "{CDC4201F-D454-41FE-8053-F2F19B0B1462}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL Maker", "DLL Maker\DLL Maker.vcxproj", "{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Debug|x64.Build.0 = Debug|x64
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Debug|x86.Build.0 = Debug|Win32
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Release|x64.ActiveCfg = Release|x64
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Release|x64.Build.0 = Release|x64
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Release|x86.ActiveCfg = Release|Win32
+		{CDC4201F-D454-41FE-8053-F2F19B0B1462}.Release|x86.Build.0 = Release|Win32
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Debug|x64.ActiveCfg = Debug|x64
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Debug|x64.Build.0 = Debug|x64
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Debug|x86.Build.0 = Debug|Win32
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Release|x64.ActiveCfg = Release|x64
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Release|x64.Build.0 = Release|x64
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Release|x86.ActiveCfg = Release|Win32
+		{FCC1A4AB-5AB5-4CC6-90E0-D18477BE3C31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6DBACD-CBE6-46BF-9030-D9AC175FBAE2}
+	EndGlobalSection
+EndGlobal
